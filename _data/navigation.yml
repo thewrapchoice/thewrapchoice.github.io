@@ -1,8 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+- title: "Quick-Start Guide for Vehicle Wraps"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+- title: "Wrap Design"
+    url: /wrap-design/
+- title: "Box Trucks"
+    url: /box-trucks/
+- title: "Food Trucks"
+    url: /food-trucks/
+- title: "Guranteed Work"
+    url: /gurantee/
+- title: "About"
+    url: /year-archive/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
